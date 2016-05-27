@@ -26,5 +26,6 @@
 	<br>
 	<h2>Today is : <%= date %></h2><p>
 	<H1>오늘은 <%= sdf.format(date) %>입니다.</H1>
+	<h3>이야아아아 최중재가 고쳤다</h3>
 </body>
 </html>
