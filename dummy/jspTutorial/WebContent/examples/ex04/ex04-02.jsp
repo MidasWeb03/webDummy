@@ -9,5 +9,6 @@
 <body>
 	이 웹페이지는 "ex04-01.jsp"를 include 하는 예제입니다.<p>
 	<%@ include file="../../hello.jsp" %>
+	정말 많은 예제를 통해 배우는 JSP!!
 </body>
 </html>
